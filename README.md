@@ -6,6 +6,13 @@ A database system for tracking and analyzing customer data and transactions in a
 
 **Team "Rothschild Family":** Rauza Ramazanova, Ramazan, Aisultan
 
+## My role
+I led the project and did the core work:
+- Designed the database schema and the ERD (14 tables, keys, and relationships)
+- Wrote all PL/SQL packages, triggers, and functions: transactions, loans, risk scoring, fraud auto-freeze, audit logging
+- Built the Oracle APEX web app: loan eligibility checker, customer management, and loan simulator
+- Prepared the dataset and the presentation
+
 ![ERD](erd.png)
 
 ## The problem
