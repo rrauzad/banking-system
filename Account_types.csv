@@ -1,0 +1,5 @@
+Account_type_ID,Type_Name,Description
+1,Checking,Daily transaction account.
+2,Savings,Interest-bearing savings account.
+3,Deposit,Time deposit with high interest.
+4,Business,Business transaction account.

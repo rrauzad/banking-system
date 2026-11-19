@@ -1,0 +1,5 @@
+Loan_type_ID,Type_Name,Description
+1,Mortgage,Loan for real estate purchase.
+2,Auto,Vehicle loan.
+3,Personal,Unsecured consumer loan.
+4,Microloan,Short-term small loan.

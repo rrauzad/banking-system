@@ -1,0 +1,8 @@
+Transaction_type_ID,Type_Name,Description
+1,Deposit,Customer added funds to account.
+2,Withdrawal,Customer removed funds from account.
+3,Transfer_In,Funds received from another internal account.
+4,Transfer_Out,Funds sent to another internal account.
+5,POS_Purchase,Point of Sale payment using card.
+6,ATM_Fee,Fee charged for ATM usage.
+7,Loan_Payment,Payment made towards an existing loan.

@@ -1,0 +1,1001 @@
+Branch_ID,Position,First_Name,Last_Name,Salary,Hire_Date
+1,Branch Manager,Jill,Phillips,71430.68,2019-05-09
+2,Branch Manager,Stephen,Jones,93584.63,2024-07-02
+3,Branch Manager,Jennifer,Bishop,148512.29,2023-11-19
+4,Branch Manager,Robert,Simmons,98443.11,2018-12-27
+5,Branch Manager,Jacob,Taylor,75804.07,2017-11-08
+6,Branch Manager,Eugene,Todd,100436.03,2021-01-26
+7,Branch Manager,Hayden,Johnston,145445.85,2017-08-14
+8,Branch Manager,Brandi,Benitez,109130.73,2016-11-03
+9,Branch Manager,Ashley,Bauer,78719.68,2025-01-04
+10,Branch Manager,Brandon,Washington,89221.09,2023-12-21
+11,Branch Manager,Virginia,Buckley,90943.23,2023-01-10
+12,Branch Manager,Denise,Cross,136127.26,2016-10-20
+13,Branch Manager,Courtney,Richardson,127753.53,2016-07-16
+14,Branch Manager,Rebecca,Andersen,141221.62,2018-07-21
+15,Branch Manager,James,Garcia,88719.76,2018-02-08
+16,Branch Manager,Christopher,Silva,148068.11,2018-07-08
+17,Branch Manager,Sharon,Bradford,147357.34,2017-11-19
+18,Branch Manager,Robert,Price,113429.11,2024-10-26
+19,Branch Manager,David,Andrews,112147.27,2022-02-19
+20,Branch Manager,Samantha,Horn,119861.16,2023-09-16
+21,Branch Manager,Gloria,Delgado,88422.77,2021-08-12
+22,Branch Manager,Justin,Miller,118980.91,2024-10-14
+23,Branch Manager,Jason,Coleman,125169.45,2024-04-21
+24,Branch Manager,Kari,Spence,81630.67,2023-09-14
+25,Branch Manager,Jeremy,Evans,135309.03,2017-05-02
+26,Branch Manager,Denise,Black,105253.85,2024-02-09
+27,Branch Manager,Kimberly,Porter,106477.79,2024-08-05
+28,Branch Manager,Justin,Murray,83318.7,2017-04-29
+29,Branch Manager,Michael,Walker,138895.3,2017-12-21
+30,Branch Manager,Robert,Aguirre,80095.79,2018-08-14
+31,Branch Manager,Jon,Mclaughlin,125500.74,2025-06-14
+32,Branch Manager,Hannah,Potts,139530.18,2025-07-03
+33,Branch Manager,Kevin,Brown,139375.15,2016-01-09
+34,Branch Manager,Brian,Hatfield,107297.74,2016-08-02
+35,Branch Manager,Anita,Brown,92051.21,2024-11-02
+36,Branch Manager,Gary,Dickson,96148.02,2020-10-24
+37,Branch Manager,Donna,Perez,137502.48,2017-03-16
+38,Branch Manager,Christopher,Parker,142691.64,2023-04-03
+39,Branch Manager,Matthew,Thompson,93909.63,2018-11-09
+40,Branch Manager,Teresa,Sanders,145794.1,2021-04-20
+41,Branch Manager,Annette,Collins,121945.31,2019-08-12
+42,Branch Manager,Elizabeth,Rocha,117503.91,2023-08-22
+43,Branch Manager,David,Olson,83223.99,2017-02-07
+44,Branch Manager,Rebecca,Lee,83702.21,2017-03-27
+45,Branch Manager,Meagan,Morgan,109877.61,2023-07-18
+46,Branch Manager,Sarah,Hardy,133442.65,2021-12-27
+47,Branch Manager,Kimberly,Hill,118906.62,2021-05-23
+48,Branch Manager,Claire,Davis,77715.48,2016-04-12
+49,Branch Manager,Donald,Page,149100.89,2024-05-29
+50,Branch Manager,Carrie,Chambers,93638.85,2018-03-30
+51,Branch Manager,Teresa,Lucas,79192.23,2024-04-25
+52,Branch Manager,Margaret,Dennis,131767.83,2017-08-19
+53,Branch Manager,Devin,Green,123797.65,2020-01-18
+54,Branch Manager,Alison,Johnson,93663.23,2018-09-26
+55,Branch Manager,Kristin,Fernandez,82371.46,2023-04-07
+56,Branch Manager,Heather,Cunningham,70508.21,2019-10-14
+57,Branch Manager,Michael,Nelson,115897.01,2018-10-10
+58,Branch Manager,Travis,Harris,139363.41,2022-05-22
+59,Branch Manager,Kelsey,Dillon,142555.7,2025-03-29
+60,Branch Manager,Natalie,Hodges,130235.09,2022-09-12
+61,Branch Manager,Cassidy,White,125569.02,2025-01-03
+62,Branch Manager,Rebecca,Rivera,130121.68,2020-07-14
+63,Branch Manager,Michael,Cox,104231.82,2022-01-14
+64,Branch Manager,Taylor,Dominguez,125908.15,2022-02-17
+65,Branch Manager,Dustin,Hall,104903.91,2017-05-15
+66,Branch Manager,Eric,Miller,137903.98,2025-09-07
+67,Branch Manager,Mitchell,Myers,122755.7,2024-09-23
+68,Branch Manager,Jessica,Allen,106884.81,2017-01-28
+69,Branch Manager,Meghan,Bell,127749.31,2018-01-19
+70,Branch Manager,John,Shields,71376.35,2021-05-07
+71,Branch Manager,Kathleen,Richardson,145694.61,2021-10-27
+72,Branch Manager,Raymond,Powers,100584.58,2020-02-13
+73,Branch Manager,Michael,Taylor,87256.43,2016-01-27
+74,Branch Manager,Alyssa,Hunter,108166.3,2020-07-14
+75,Branch Manager,Michael,Archer,145896.44,2023-09-24
+76,Branch Manager,Robert,Cook,106459.6,2020-02-19
+77,Branch Manager,James,Hill,90839.25,2021-11-07
+78,Branch Manager,Martin,Todd,74032.37,2022-05-29
+79,Branch Manager,Karen,Mack,149792.57,2025-08-03
+80,Branch Manager,Elizabeth,Le,107946.7,2016-01-27
+81,Branch Manager,Lori,Norton,100767.35,2024-04-08
+82,Branch Manager,Jessica,Pratt,145116.05,2016-06-22
+83,Branch Manager,Linda,Davis,147379.74,2016-03-21
+84,Branch Manager,Jessica,Rodgers,79812.28,2025-05-05
+85,Branch Manager,Blake,Weiss,92957.93,2024-12-30
+86,Branch Manager,Elizabeth,Acosta,103736.56,2025-07-17
+87,Branch Manager,Wayne,Johnson,116026.21,2020-09-10
+88,Branch Manager,Duane,Mcguire,142714.85,2018-06-22
+89,Branch Manager,Christian,Ballard,132497.24,2021-04-07
+90,Branch Manager,Dorothy,Henry,142081.46,2025-01-27
+91,Branch Manager,David,Francis,75108.21,2023-01-12
+92,Branch Manager,Karen,Lewis,141872.59,2022-12-08
+93,Branch Manager,Thomas,Butler,127527.28,2021-02-15
+94,Branch Manager,Matthew,Holt,96347.14,2021-07-07
+95,Branch Manager,Luke,King,139575.59,2019-04-21
+96,Branch Manager,Jennifer,Munoz,144007.6,2016-08-25
+97,Branch Manager,Diana,Ramirez,79213.9,2019-01-12
+98,Branch Manager,Grant,Diaz,95178.68,2016-05-09
+99,Branch Manager,Timothy,Cook,113207.28,2025-05-29
+100,Branch Manager,Austin,Escobar,109816.85,2017-12-28
+100,Loan Officer,Kyle,Williams,130488.45,2018-03-18
+47,Teller,Suzanne,Gregory,126293.71,2021-07-04
+74,Analyst,Kenneth,Robertson,100488.55,2021-12-18
+61,Customer Service,Susan,Stephens,133281.58,2020-05-02
+7,Teller,Jacob,Rodriguez,146898.55,2016-10-21
+68,Teller,John,Jackson,106762.38,2024-09-11
+52,Analyst,Eric,Beck,119997.45,2021-10-07
+87,Loan Officer,Erica,Robertson,122958.12,2025-04-30
+53,Analyst,Seth,Klein,90651.23,2017-07-08
+71,Analyst,Jennifer,Thompson,93502.76,2023-11-17
+17,Loan Officer,Shelly,Jimenez,52123.59,2018-12-27
+92,Teller,Andrea,Wilcox,149389.51,2024-02-02
+82,Customer Service,Margaret,Gregory,67215.39,2016-03-27
+78,Loan Officer,Gary,Farrell,143500.71,2016-08-22
+38,Loan Officer,Steven,Bennett,115431.22,2025-01-15
+78,Customer Service,Mary,Kelly,76423.51,2023-12-31
+17,Analyst,Denise,Brooks,146208.6,2022-03-24
+51,Customer Service,Donna,Kane,136543.69,2022-10-20
+9,Loan Officer,Melissa,Pace,96785.5,2017-07-01
+7,Analyst,James,Hernandez,87984.06,2020-06-09
+87,Teller,Courtney,Graham,138049.1,2018-10-15
+19,Loan Officer,Tracy,Howard,52618.74,2019-01-03
+71,Analyst,Candice,Copeland,83834.48,2025-04-21
+10,Teller,Michael,Wright,112005.78,2021-06-02
+30,Customer Service,Michael,Murphy,138618.74,2020-08-26
+31,Loan Officer,Mary,Hernandez,71493.72,2018-12-15
+42,Analyst,Brianna,Bryant,113209.52,2019-05-29
+58,Customer Service,Roy,Taylor,149185.94,2016-06-21
+24,Teller,Devin,Shepard,136589.37,2022-03-17
+73,Customer Service,Patrick,Logan,91210.38,2019-10-28
+14,Customer Service,Zachary,Fletcher,85491.37,2020-03-28
+7,Customer Service,Debbie,Hudson,80108.26,2018-11-26
+12,Teller,Michelle,Lamb,85157.91,2024-12-19
+38,Teller,Mary,Zimmerman,89082.93,2025-09-18
+1,Loan Officer,Amanda,Steele,127519.27,2021-02-27
+15,Teller,Paul,Case,147379.54,2025-02-16
+41,Teller,Rodney,Schultz,62915.73,2018-12-19
+10,Teller,Katherine,Costa,132470.92,2019-03-14
+69,Teller,Jenny,Harrison,134966.63,2019-11-08
+93,Customer Service,Jason,Johnson,105132.49,2017-08-02
+23,Loan Officer,Ralph,Thomas,69201.6,2020-06-25
+43,Customer Service,Aaron,Garcia,87014.59,2023-12-07
+95,Customer Service,Nathan,Frazier,88674.96,2023-10-24
+78,Analyst,John,Gray,73384.01,2021-09-24
+64,Teller,Julie,Kramer,51359.33,2022-06-15
+29,Teller,Margaret,Gonzalez,57608.99,2024-05-10
+35,Analyst,Christopher,Walker,56684.01,2021-08-23
+43,Analyst,Cody,Hardy,50082.52,2022-10-09
+51,Loan Officer,Lauren,Shields,70156.65,2024-09-14
+12,Analyst,Danny,Nelson,66764.39,2023-07-21
+33,Teller,Dawn,Guzman,129604.35,2017-04-11
+48,Customer Service,Eric,Rice,96097.87,2021-07-18
+20,Teller,Andrew,Finley,95458.51,2017-05-16
+29,Teller,Jody,Gates,72005.35,2022-08-07
+28,Teller,Jackie,Wiley,93628.62,2019-04-25
+31,Teller,Teresa,Chavez,63817.37,2019-03-03
+73,Customer Service,Elizabeth,Fritz,116641.38,2018-11-25
+82,Analyst,Crystal,English,75308.84,2019-10-19
+25,Customer Service,Christopher,Reeves,61999.11,2022-08-02
+50,Teller,Michelle,Preston,115061.22,2017-10-30
+9,Loan Officer,Anne,Weaver,90083.19,2021-07-20
+29,Analyst,Craig,Murphy,133366.35,2019-09-14
+18,Teller,Ronald,Brown,149293.72,2021-12-29
+75,Teller,Anne,Johnson,75685.2,2019-09-02
+77,Teller,Emma,Hughes,90213.98,2022-05-23
+69,Teller,Mary,Hall,98924.0,2016-08-16
+23,Teller,Scott,Rodriguez,145498.28,2025-01-19
+73,Loan Officer,Susan,Williams,68107.8,2020-09-25
+56,Analyst,Angela,Martin,78368.52,2016-05-11
+17,Teller,Rebecca,Friedman,95223.6,2016-01-04
+42,Analyst,Rebecca,Tanner,54488.74,2017-03-15
+1,Customer Service,Rachel,Cook,94651.89,2024-10-16
+59,Customer Service,Megan,Foley,104109.92,2019-03-02
+30,Loan Officer,Shannon,Guerrero,123160.81,2022-10-19
+92,Customer Service,Brian,Page,116214.71,2022-10-27
+18,Analyst,Kimberly,Medina,112563.21,2024-04-19
+43,Analyst,Daniel,Burton,103991.3,2022-01-15
+16,Loan Officer,Pamela,Mccarty,111308.76,2024-02-05
+10,Loan Officer,John,Nelson,61480.0,2019-03-16
+79,Customer Service,Miranda,Tran,70243.58,2025-08-11
+3,Loan Officer,Rachel,Hill,65350.31,2019-02-17
+78,Analyst,Daniel,Stein,144477.87,2019-03-22
+79,Teller,Lisa,Brady,133756.54,2020-03-28
+37,Customer Service,Mary,Vaughn,50258.56,2016-12-03
+42,Analyst,Perry,Rich,99053.16,2016-04-24
+44,Teller,Abigail,Smith,79400.41,2021-07-04
+89,Analyst,Tanya,Marshall,108985.11,2021-07-29
+90,Customer Service,Sean,Gonzalez,97843.69,2020-12-09
+14,Customer Service,Amy,Schneider,60954.01,2020-12-31
+78,Teller,Juan,Walker,126561.1,2017-03-11
+88,Customer Service,David,Robinson,141436.85,2019-09-12
+7,Analyst,Adrian,Walls,83213.37,2016-11-23
+99,Analyst,Karen,Martinez,61700.65,2020-06-14
+91,Analyst,Keith,Flynn,103048.36,2023-05-20
+86,Loan Officer,Donna,Nunez,90325.52,2017-03-02
+98,Loan Officer,Steven,Hayes,54533.52,2016-10-08
+52,Analyst,David,Solomon,75074.71,2021-03-24
+60,Teller,Eric,Edwards,95769.0,2022-12-31
+94,Analyst,Justin,West,67291.62,2018-10-20
+7,Analyst,Joel,Rodriguez,58598.85,2016-10-22
+52,Customer Service,Ashley,Lewis,107127.51,2019-01-04
+16,Loan Officer,Michael,Soto,98326.86,2023-09-02
+55,Loan Officer,Joseph,Arnold,100703.69,2021-02-09
+23,Teller,David,Lewis,137861.72,2016-09-19
+55,Teller,Henry,Bird,75215.96,2022-04-01
+57,Teller,Wesley,Hampton,136482.85,2025-01-20
+8,Customer Service,Natalie,Burns,115956.25,2024-05-11
+85,Analyst,Marcus,Davis,98824.32,2023-12-05
+22,Customer Service,Patty,Zimmerman,144209.15,2024-08-20
+71,Teller,Jeremy,Burns,55156.32,2022-07-11
+95,Teller,Sarah,Houston,65038.07,2016-07-14
+29,Teller,Michael,Peters,132671.32,2018-05-05
+92,Loan Officer,Kristine,Lowery,57854.19,2023-08-02
+94,Analyst,Victoria,Nunez,98418.98,2025-10-18
+65,Customer Service,Raymond,Olson,96997.26,2021-01-24
+30,Analyst,Samantha,Reese,76933.17,2017-04-11
+8,Customer Service,Terri,Ford,105208.06,2017-01-04
+81,Loan Officer,Jennifer,Chandler,60834.57,2024-12-16
+50,Customer Service,Lisa,Zavala,64278.08,2023-11-03
+92,Customer Service,James,Smith,62460.62,2025-07-24
+15,Teller,Kenneth,Hernandez,67254.73,2018-06-03
+51,Loan Officer,Christopher,Thomas,108847.56,2023-05-09
+35,Teller,Natalie,Spencer,60427.62,2021-07-18
+46,Analyst,Matthew,Johnson,144033.16,2016-07-23
+70,Customer Service,Logan,Freeman,131066.46,2019-05-24
+97,Loan Officer,Alicia,Santos,124291.65,2016-06-21
+44,Customer Service,Jasmin,Myers,129629.15,2022-01-20
+92,Customer Service,Angela,Morrison,79779.08,2016-08-10
+63,Customer Service,Nicole,Walker,105357.8,2022-08-16
+83,Analyst,Kendra,Nichols,104436.9,2018-11-14
+22,Customer Service,Kevin,Mitchell,107292.02,2020-04-03
+21,Teller,Jill,Hoffman,113812.34,2020-02-01
+78,Customer Service,Laurie,Marshall,99772.15,2017-11-25
+69,Analyst,Jessica,Schwartz,77348.14,2018-02-14
+96,Analyst,Marc,Barrett,144970.47,2019-06-22
+51,Customer Service,Daniel,White,88430.8,2023-03-27
+92,Loan Officer,Lisa,Thomas,128332.8,2024-04-18
+40,Teller,Mark,Campbell,72157.34,2021-10-02
+97,Teller,Nicholas,Patton,99878.36,2018-11-11
+59,Customer Service,Robert,Anderson,117165.17,2018-12-10
+84,Teller,Thomas,Brady,127321.35,2023-05-18
+17,Loan Officer,Kelly,Daniels,80710.33,2024-06-20
+80,Loan Officer,Jerry,Parks,121753.34,2021-02-07
+31,Analyst,Colton,Conrad,55615.26,2017-08-09
+12,Customer Service,Todd,Webster,62634.99,2023-01-03
+93,Analyst,Eric,Jackson,79227.83,2025-11-20
+15,Teller,Timothy,Bell,59078.09,2016-05-01
+32,Analyst,Megan,Beck,108026.82,2024-05-30
+12,Analyst,David,Marshall,122340.28,2022-07-31
+86,Analyst,Jennifer,Jones,97139.28,2025-10-13
+59,Analyst,Heidi,Blake,84674.02,2022-09-09
+30,Teller,Jennifer,Lutz,125800.54,2025-11-24
+28,Teller,Allison,Yoder,115598.98,2017-02-12
+71,Teller,Debbie,Martinez,53978.06,2018-11-24
+31,Teller,Donald,Flores,129699.26,2019-10-09
+13,Teller,Jamie,Miller,58523.19,2018-07-26
+91,Analyst,Jessica,Kline,143908.44,2022-04-20
+84,Loan Officer,Carolyn,Robbins,117767.26,2024-08-10
+94,Teller,Jasmine,Simpson,82277.15,2019-10-24
+57,Analyst,Jesus,Garcia,134105.49,2023-12-17
+35,Loan Officer,Glen,Blevins,89088.63,2021-07-13
+54,Customer Service,Patricia,Diaz,122608.52,2018-08-25
+35,Teller,Julia,Thomas,136552.02,2025-09-28
+19,Analyst,Teresa,Sims,93200.5,2017-12-27
+5,Teller,Ronald,Jones,148237.97,2019-04-11
+14,Analyst,Bryan,Case,111952.75,2019-08-06
+81,Customer Service,Stephanie,Hoffman,93677.19,2020-10-14
+77,Teller,Craig,King,96620.55,2018-12-07
+26,Loan Officer,Julia,Durham,54106.55,2016-12-19
+76,Customer Service,Michael,Cummings,107991.46,2017-08-20
+19,Analyst,William,Hernandez,57464.29,2024-01-20
+7,Analyst,Monique,Holmes,85991.17,2019-07-23
+99,Customer Service,Michael,Meyer,105294.33,2019-06-07
+33,Teller,Sharon,King,148794.32,2022-03-31
+36,Analyst,Heather,Fox,139958.28,2022-07-06
+59,Teller,Christopher,Gomez,97759.95,2021-02-25
+71,Teller,Barry,Cole,80606.89,2023-11-24
+78,Analyst,Mario,Clark,127760.64,2020-05-02
+83,Loan Officer,Teresa,Smith,85240.86,2017-12-24
+40,Analyst,Angela,Smith,136512.44,2019-08-20
+96,Teller,Joseph,Shea,74408.36,2021-10-01
+54,Analyst,Virginia,Richardson,79955.61,2023-10-26
+44,Customer Service,Zachary,Murillo,135425.91,2016-05-09
+88,Customer Service,Daniel,Brooks,139727.24,2023-10-31
+48,Customer Service,Valerie,Cook,135482.55,2016-07-07
+2,Analyst,Dawn,Butler,136512.29,2018-06-03
+60,Analyst,James,Mendoza,53805.83,2019-12-14
+68,Analyst,Travis,Perkins,130141.65,2024-05-17
+58,Analyst,Annette,Hayes,114610.5,2021-04-18
+23,Loan Officer,Stephanie,Brennan,142581.14,2018-03-13
+8,Loan Officer,Susan,Fitzpatrick,149141.09,2016-06-14
+22,Loan Officer,Jason,Romero,66316.73,2025-03-14
+18,Customer Service,Felicia,Gomez,67756.2,2022-03-21
+97,Analyst,Robert,Robinson,123928.42,2017-06-21
+44,Analyst,William,Ortega,64432.64,2020-07-26
+28,Customer Service,Wendy,Lewis,135599.32,2017-03-13
+52,Teller,Jamie,Conway,84146.02,2022-08-28
+99,Analyst,Eric,Lawrence,82211.07,2020-08-15
+81,Analyst,Jamie,Palmer,137942.57,2017-01-17
+86,Customer Service,Matthew,Davis,117028.63,2016-04-29
+63,Loan Officer,Angela,Bray,112226.56,2021-02-21
+2,Analyst,Meghan,Williams,133444.17,2025-10-03
+92,Loan Officer,Tammy,Byrd,145636.15,2022-02-04
+62,Loan Officer,Caitlin,Dalton,80063.36,2019-08-19
+84,Loan Officer,Mary,Campbell,129971.82,2020-08-18
+97,Analyst,Donald,Clark,118019.62,2023-10-08
+52,Teller,Sandy,White,64011.07,2020-08-19
+27,Analyst,Thomas,Rubio,90721.12,2019-11-24
+30,Loan Officer,David,Miller,79288.35,2021-03-05
+44,Teller,Gary,Edwards,140276.41,2021-10-16
+59,Loan Officer,Brian,Conrad,95652.8,2024-12-25
+71,Analyst,Corey,Wood,76065.88,2025-11-08
+51,Loan Officer,Melissa,Wheeler,137961.56,2020-04-03
+96,Customer Service,John,Palmer,52342.11,2025-06-15
+8,Analyst,Anna,Kirby,148135.98,2016-04-25
+52,Teller,Daniel,Haynes,62603.73,2024-05-31
+48,Analyst,Laura,Baker,63442.33,2025-03-26
+47,Customer Service,Christopher,Hardin,94651.09,2022-04-17
+14,Customer Service,Karla,Allen,63445.79,2023-12-21
+57,Teller,Stacy,Jackson,51392.18,2016-11-18
+75,Loan Officer,Kimberly,Sanchez,96980.36,2016-08-23
+38,Teller,Emily,Long,58793.9,2025-02-08
+32,Analyst,Holly,Baldwin,61896.59,2021-01-03
+94,Loan Officer,Kelly,Rojas,111974.23,2023-04-21
+77,Customer Service,Natalie,Stewart,144067.19,2019-11-27
+70,Teller,Dwayne,Ballard,61848.02,2016-08-31
+26,Loan Officer,Jennifer,Taylor,140853.22,2024-07-13
+62,Customer Service,Rita,Lutz,141914.0,2019-06-22
+23,Analyst,Sean,Welch,90691.58,2016-07-27
+26,Teller,Daniel,Brown,78077.94,2025-09-06
+73,Customer Service,Jennifer,Vasquez,144122.25,2025-08-21
+7,Analyst,Julie,Vazquez,140744.74,2022-05-11
+50,Teller,Kelsey,Mitchell,140282.12,2024-12-06
+73,Customer Service,Joseph,Raymond,70762.67,2016-02-01
+5,Customer Service,Samantha,Thomas,117079.69,2019-10-26
+63,Analyst,Andrew,Moore,143039.99,2017-02-02
+7,Analyst,Wayne,Obrien,74567.37,2018-01-13
+91,Analyst,Allen,Wise,101496.3,2025-01-18
+98,Loan Officer,Breanna,Kim,66955.23,2018-05-16
+57,Customer Service,Kathleen,Perry,113499.18,2018-11-25
+49,Loan Officer,Heather,Williams,59779.62,2025-12-01
+76,Customer Service,Joseph,Osborne,87592.13,2018-07-01
+32,Loan Officer,Juan,Smith,147252.69,2021-07-24
+61,Teller,Joseph,Clarke,130593.58,2017-11-02
+82,Teller,Kevin,Oneill,134611.47,2017-11-17
+23,Analyst,Matthew,Bell,142761.92,2016-05-07
+71,Teller,Gary,Lewis,66274.42,2018-05-06
+22,Teller,Luis,Williams,100152.29,2017-07-15
+77,Loan Officer,David,Davis,109088.6,2017-05-18
+63,Loan Officer,Julie,Shepherd,76281.02,2025-05-17
+81,Analyst,Kimberly,Phelps,112659.79,2020-04-18
+5,Teller,Tanya,Gamble,140123.15,2017-11-13
+43,Loan Officer,Karen,Huynh,73454.56,2022-06-22
+9,Analyst,Deborah,Roberts,87260.82,2021-05-29
+8,Teller,Jesse,Walton,88288.31,2021-02-26
+67,Analyst,Sarah,Haney,86600.22,2017-10-21
+97,Analyst,Ashley,Hodges,59930.74,2024-06-23
+21,Customer Service,Katherine,Burton,80370.11,2022-05-02
+75,Analyst,Luis,Russell,85221.68,2016-07-07
+20,Analyst,Ashley,Davis,88504.29,2025-09-03
+1,Analyst,Chad,Williams,53255.4,2024-10-07
+26,Analyst,Jacob,Leblanc,87944.49,2016-01-14
+94,Loan Officer,John,Thompson,139328.06,2021-09-14
+88,Customer Service,Krystal,Johnson,57255.59,2023-11-24
+3,Teller,Kristy,Martin,57079.06,2024-07-15
+16,Teller,Michael,Evans,102832.57,2024-03-16
+100,Loan Officer,Jason,Flores,80118.63,2024-03-11
+2,Analyst,Jonathan,White,115867.1,2019-08-22
+33,Teller,Rebecca,Hopkins,113923.9,2025-01-30
+23,Teller,Christine,Reynolds,107312.43,2020-02-06
+8,Loan Officer,Nicole,Barnes,55201.9,2022-06-01
+67,Analyst,Michael,Juarez,105189.53,2017-03-26
+6,Customer Service,Brenda,Palmer,66286.76,2023-07-06
+8,Analyst,Wayne,Brown,138876.35,2018-05-15
+28,Loan Officer,Gabriel,Quinn,110786.6,2025-04-02
+65,Analyst,Rebecca,Berry,136339.08,2020-08-02
+28,Analyst,Michele,Parker,60817.16,2023-05-10
+11,Loan Officer,Connor,Adams,51302.66,2017-02-18
+31,Loan Officer,Laura,Nelson,135359.76,2019-10-25
+4,Analyst,Chelsea,Melendez,130618.29,2025-08-08
+91,Loan Officer,Jason,Key,82331.22,2017-08-19
+69,Loan Officer,Lauren,Chandler,141024.02,2018-04-26
+60,Teller,Alexandra,Thornton,108415.8,2022-12-04
+88,Customer Service,Barbara,Lopez,79182.04,2025-09-16
+21,Analyst,Christopher,Calderon,107231.78,2025-07-29
+32,Customer Service,Douglas,Casey,106436.17,2020-05-03
+44,Loan Officer,Sarah,Arroyo,143834.22,2021-08-20
+35,Loan Officer,Rodney,Perry,122847.1,2022-12-16
+85,Analyst,David,Mcgee,66948.94,2018-12-01
+72,Teller,Ronald,Morales,138446.41,2018-01-23
+25,Analyst,Kevin,Hopkins,84023.38,2017-09-12
+69,Teller,Christopher,Bishop,101767.58,2016-06-08
+83,Customer Service,Sharon,Hamilton,52374.8,2018-04-03
+6,Loan Officer,Juan,Rogers,115741.27,2019-10-18
+53,Loan Officer,Evelyn,Morris,76830.99,2024-01-13
+99,Loan Officer,Chelsea,Hawkins,101538.65,2024-06-23
+74,Teller,Mark,Ball,116369.62,2022-06-04
+4,Teller,Natalie,Williams,95052.81,2018-07-13
+38,Teller,Denise,Estes,95101.02,2017-07-19
+3,Loan Officer,Rebecca,Nielsen,145189.99,2025-10-22
+84,Customer Service,Timothy,Figueroa,70875.53,2017-09-14
+99,Teller,Paul,Harris,121971.89,2021-03-20
+48,Teller,Andrew,Bernard,100139.68,2021-05-24
+72,Loan Officer,Rodney,Rowe,128894.99,2023-10-19
+40,Customer Service,Maria,Williamson,77116.16,2024-12-25
+86,Teller,Nicholas,Turner,103471.41,2019-06-13
+4,Loan Officer,Jack,Robertson,99884.01,2018-11-24
+76,Customer Service,Angela,Nguyen,68961.81,2019-02-14
+7,Analyst,Thomas,Campbell,90329.92,2017-07-08
+96,Analyst,Vanessa,Warner,110049.38,2018-11-15
+100,Customer Service,Gina,Boyd,104151.47,2017-10-14
+79,Teller,Susan,Travis,127682.03,2025-10-24
+3,Analyst,Christina,Martin,97154.89,2019-03-17
+95,Teller,Ronald,Randolph,83292.35,2020-02-02
+13,Loan Officer,Anthony,Rodriguez,97354.68,2021-08-08
+29,Loan Officer,Kyle,Nguyen,92762.69,2016-04-11
+36,Loan Officer,Emily,Berg,113139.57,2025-06-09
+50,Customer Service,Jennifer,Ross,88908.1,2023-01-01
+85,Teller,Michelle,Martinez,87018.35,2022-09-14
+81,Teller,Scott,Rose,76660.34,2019-10-16
+96,Teller,Anthony,Miller,96162.04,2025-01-07
+65,Teller,Glenn,Collins,56317.0,2020-05-07
+33,Teller,Suzanne,Oliver,131641.69,2018-04-17
+30,Analyst,Donna,Phillips,124842.55,2021-06-04
+62,Analyst,Cody,Brock,108770.92,2024-04-03
+94,Customer Service,Anthony,Hartman,132174.88,2020-02-24
+23,Teller,Jeffrey,Poole,149512.41,2019-03-09
+24,Loan Officer,Richard,Bell,137182.09,2022-07-02
+94,Teller,Christina,Lee,129643.2,2024-03-23
+78,Customer Service,Dylan,Hawkins,138826.85,2021-07-13
+60,Teller,Drew,Walsh,67985.76,2016-01-02
+85,Teller,Lee,Dennis,83306.16,2016-05-08
+58,Teller,James,Lucas,74271.55,2023-11-29
+71,Loan Officer,Jennifer,Brown,132484.91,2020-03-23
+27,Teller,Angela,Woods,149077.71,2018-07-18
+57,Teller,Jeremy,Thomas,124778.1,2017-07-02
+26,Analyst,Stephen,Castillo,75965.15,2018-04-23
+21,Loan Officer,Nicole,Wright,92813.72,2017-09-12
+71,Loan Officer,James,Andrews,98451.91,2022-04-09
+95,Loan Officer,Kayla,Johnson,62848.45,2019-09-14
+43,Teller,John,Rose,125602.74,2019-02-12
+70,Analyst,John,Griffin,100848.7,2017-02-18
+46,Teller,Denise,Burton,83122.63,2016-02-18
+32,Customer Service,Sarah,Sutton,135629.17,2023-01-03
+8,Analyst,Larry,Patrick,60275.0,2018-07-04
+100,Analyst,Samuel,Fleming,84756.05,2021-09-05
+17,Loan Officer,Matthew,Jones,64202.87,2025-10-08
+84,Customer Service,Christopher,Smith,147835.05,2019-07-10
+65,Analyst,Danny,Mullins,70797.31,2025-01-13
+21,Analyst,Kevin,Powers,58208.31,2023-08-07
+4,Loan Officer,Heather,Garcia,73901.44,2023-08-19
+60,Customer Service,Daisy,Dyer,91059.09,2021-06-18
+34,Analyst,Jason,Price,58173.5,2022-12-30
+3,Teller,Barbara,Koch,91183.77,2020-09-04
+1,Loan Officer,Jordan,Brown,98253.21,2017-12-26
+42,Analyst,Charles,Ewing,112396.26,2024-03-23
+73,Analyst,Kim,Gonzales,70624.64,2019-05-05
+2,Loan Officer,Jasmine,Rhodes,140559.72,2018-01-22
+37,Loan Officer,Ryan,Welch,148419.12,2018-04-23
+95,Customer Service,Jason,Little,56217.71,2024-08-09
+77,Loan Officer,Ryan,Wright,52542.75,2025-10-01
+57,Customer Service,Michael,Harrington,138880.4,2020-05-30
+44,Loan Officer,Jacqueline,Hicks,149157.09,2020-01-17
+15,Customer Service,Stephanie,Martin,93508.32,2021-06-11
+29,Customer Service,Christian,Williams,102680.49,2018-04-01
+38,Customer Service,Michael,Figueroa,112782.45,2023-08-27
+39,Customer Service,April,Williams,130532.95,2024-07-23
+99,Customer Service,Kayla,Boyd,134164.75,2017-07-23
+68,Customer Service,Frank,Middleton,82880.5,2023-06-04
+4,Loan Officer,Donna,Hudson,109462.88,2017-02-04
+64,Customer Service,Tracy,Roman,113592.36,2017-07-31
+66,Teller,Kimberly,Graves,59486.92,2023-05-11
+49,Teller,Christian,Reed,103613.55,2016-09-28
+98,Analyst,Samantha,Jacobson,81576.37,2025-06-22
+94,Loan Officer,Darren,Gonzalez,110496.1,2017-06-29
+9,Loan Officer,Monica,Norris,84959.0,2022-11-12
+10,Loan Officer,Joshua,Miller,145299.28,2018-02-01
+71,Teller,Edward,Hancock,71156.71,2017-01-26
+43,Customer Service,Christina,Miller,128276.6,2020-12-10
+53,Customer Service,Keith,Castro,142944.24,2017-05-24
+42,Customer Service,Sean,Mcdaniel,136915.42,2022-10-28
+68,Loan Officer,Valerie,Michael,147613.82,2018-01-31
+85,Customer Service,Melissa,Campbell,53044.86,2019-07-04
+11,Loan Officer,Matthew,Wilson,87381.13,2016-11-07
+66,Loan Officer,Andrea,Cruz,106100.68,2023-07-31
+47,Customer Service,Heather,Dennis,69196.16,2020-07-29
+100,Analyst,Robert,Snyder,102914.32,2018-06-30
+91,Analyst,Lindsay,Jackson,54281.57,2016-08-18
+79,Customer Service,Connor,Gardner,104913.49,2020-02-06
+95,Analyst,David,Curry,120387.62,2024-05-29
+60,Teller,Daniel,Lawrence,112423.94,2019-01-12
+99,Customer Service,Theresa,Ellis,80134.13,2024-11-20
+56,Loan Officer,Amanda,Craig,87168.16,2016-10-21
+92,Customer Service,Stacey,Walker,97182.45,2017-07-26
+42,Analyst,Laura,Mann,105238.63,2023-07-28
+55,Analyst,Lisa,Thomas,102731.55,2022-08-07
+94,Loan Officer,Lisa,Lee,66164.91,2022-11-19
+38,Analyst,Charles,Williams,130716.47,2018-10-25
+24,Teller,Keith,Campbell,129568.71,2019-09-20
+82,Analyst,Michael,Harper,58688.68,2019-03-10
+86,Customer Service,Melanie,Stephenson,94429.97,2023-10-31
+56,Teller,Kelli,Tucker,65410.78,2016-09-25
+36,Loan Officer,Kayla,Roberts,98903.28,2018-06-28
+4,Customer Service,Daniel,Steele,147253.8,2018-11-07
+28,Customer Service,Angela,Schmidt,128055.14,2018-10-03
+4,Analyst,Sara,Smith,73316.44,2022-11-15
+29,Loan Officer,Mackenzie,Edwards,94360.94,2016-03-30
+67,Loan Officer,Wayne,Smith,124446.04,2021-04-29
+77,Customer Service,Christopher,Patel,51467.9,2025-09-26
+100,Teller,Jonathan,Gray,82358.32,2016-07-16
+93,Loan Officer,Kyle,Weber,53594.79,2024-06-29
+63,Customer Service,Scott,Lambert,85539.39,2022-08-31
+66,Loan Officer,Charles,Massey,145179.32,2018-10-25
+97,Loan Officer,Brandon,Rogers,62250.98,2024-10-01
+24,Teller,Jim,Barnes,65516.42,2024-05-03
+9,Analyst,Bryce,Ramos,72206.67,2022-01-29
+92,Teller,Todd,Rodriguez,74216.09,2023-12-30
+85,Customer Service,Erik,Schmidt,64859.96,2025-05-30
+56,Analyst,Maria,Weaver,74864.39,2021-05-11
+82,Analyst,Gabriel,Booth,69363.72,2021-05-29
+29,Customer Service,Chad,Jones,88577.05,2018-02-16
+54,Analyst,Keith,Mccoy,114831.84,2017-06-07
+95,Analyst,Jesus,Johnson,127756.66,2016-06-27
+92,Loan Officer,Theresa,Wood,106307.37,2018-10-26
+66,Customer Service,Ashley,Martin,89526.46,2018-07-11
+43,Analyst,Ricky,Sullivan,146831.95,2021-01-28
+19,Teller,Jasmine,Lopez,81599.48,2024-08-10
+40,Loan Officer,Renee,Wu,78473.92,2017-04-16
+4,Analyst,Amanda,Ramirez,89984.91,2022-08-29
+80,Analyst,David,Torres,82014.98,2017-12-03
+64,Analyst,Kathleen,Marsh,109132.73,2019-07-10
+70,Analyst,Teresa,Christensen,128106.01,2020-09-25
+43,Loan Officer,Heather,Ruiz,71385.37,2023-12-18
+42,Analyst,David,Mcclure,139514.46,2020-01-07
+46,Customer Service,Robert,Greer,128556.52,2016-01-18
+58,Loan Officer,Jody,Graham,107340.62,2017-01-13
+21,Teller,Wyatt,Esparza,102435.9,2019-11-03
+56,Loan Officer,Kathy,Downs,72011.36,2019-04-27
+38,Loan Officer,Diane,Salazar,58932.65,2025-06-17
+24,Customer Service,William,Sweeney,117450.77,2025-03-22
+28,Customer Service,Krista,Wilson,130028.5,2022-12-11
+91,Analyst,Nicolas,Patterson,61371.71,2017-08-19
+83,Loan Officer,Christopher,Stuart,64348.77,2017-07-15
+76,Loan Officer,David,Sherman,99481.32,2025-02-15
+82,Customer Service,Brendan,Marsh,105340.96,2021-05-17
+2,Teller,Jennifer,Vasquez,147075.28,2024-12-09
+62,Analyst,Tonya,Benton,73293.53,2020-02-02
+43,Teller,Jonathan,Alexander,64202.26,2017-04-07
+52,Analyst,Vicki,Smith,51092.43,2024-12-06
+13,Teller,Kristi,Murphy,76431.1,2024-05-10
+97,Teller,Vincent,Collins,122937.59,2023-03-16
+46,Analyst,David,Miller,139126.92,2020-09-20
+1,Loan Officer,Kristie,Rivera,107121.67,2018-03-26
+75,Teller,Jacqueline,Brown,133487.81,2018-02-23
+40,Analyst,James,Allen,149275.64,2020-04-08
+75,Teller,Jose,Burke,124682.96,2019-02-11
+26,Analyst,Jason,Moreno,107828.35,2020-04-27
+57,Analyst,Lauren,Brown,133287.88,2022-05-17
+83,Customer Service,Richard,Chapman,109937.09,2022-08-12
+19,Customer Service,Anthony,Richards,115971.26,2022-12-21
+21,Loan Officer,Charlotte,Gutierrez,114239.33,2021-10-07
+16,Loan Officer,Robert,Bridges,121016.97,2024-11-28
+34,Loan Officer,Yesenia,Santiago,134874.93,2024-04-29
+62,Customer Service,Brittany,Odonnell,116377.37,2025-10-27
+96,Teller,Joe,Cook,80611.7,2018-08-11
+55,Customer Service,Patrick,Hooper,100840.19,2021-12-16
+64,Teller,Summer,Li,84390.27,2024-01-02
+82,Teller,Michael,Collins,122147.3,2022-09-30
+53,Teller,Elizabeth,Jones,85705.63,2018-10-19
+98,Analyst,Charlotte,Brown,113957.84,2020-03-06
+97,Loan Officer,Lee,Arnold,124097.94,2024-04-17
+50,Loan Officer,Megan,Anthony,77655.19,2017-07-25
+43,Customer Service,Joshua,Miller,54984.9,2017-01-18
+5,Teller,Steven,Nelson,112041.29,2022-09-07
+31,Customer Service,David,Gardner,129074.79,2019-04-27
+71,Loan Officer,Katelyn,Davis,59327.12,2019-06-23
+86,Teller,David,Ramos,77204.24,2021-07-09
+38,Teller,Mary,Mccarty,134044.69,2017-11-02
+93,Teller,Bradley,Gonzalez,57913.78,2017-04-02
+94,Teller,Traci,Craig,123666.02,2022-08-05
+18,Analyst,Tanner,White,82497.41,2025-02-08
+97,Analyst,Louis,Wells,107091.03,2016-06-19
+32,Teller,Dominique,Henderson,69229.03,2022-09-13
+42,Customer Service,Kristin,Hawkins,52154.24,2018-08-17
+68,Teller,Julie,Miles,140157.62,2024-12-07
+52,Loan Officer,Ronald,Proctor,77030.83,2024-10-29
+52,Customer Service,Susan,Johnson,143781.88,2017-06-13
+91,Loan Officer,Paul,Monroe,88500.14,2024-09-26
+60,Customer Service,Charles,Contreras,91251.24,2017-01-27
+65,Loan Officer,Michael,Wallace,127266.71,2021-02-04
+88,Customer Service,Wendy,Pruitt,67371.73,2017-05-19
+15,Analyst,Matthew,Brown,149402.89,2021-04-05
+37,Customer Service,Diana,Bruce,88062.22,2017-01-23
+6,Teller,Paul,Mason,106257.66,2024-02-04
+96,Analyst,Bruce,Navarro,101658.35,2017-04-23
+7,Customer Service,Lisa,Patel,98086.85,2024-03-31
+97,Loan Officer,Stacey,Torres,99776.63,2016-02-20
+44,Customer Service,Beth,Hernandez,99403.42,2019-01-04
+64,Analyst,Nancy,Adams,125501.75,2021-05-16
+11,Analyst,Melanie,Savage,84336.48,2017-10-23
+86,Customer Service,Cynthia,Walker,67137.49,2025-02-11
+90,Analyst,Stephen,Boone,141401.83,2022-11-15
+79,Loan Officer,Jeremy,Simpson,67386.14,2016-05-24
+38,Customer Service,Andrea,Cummings,50012.27,2022-02-08
+12,Analyst,Traci,Sharp,149706.48,2024-08-26
+14,Analyst,Alicia,Carroll,93833.76,2019-04-22
+71,Analyst,Zachary,Barrett,128470.6,2023-06-09
+58,Analyst,Thomas,Clark,129684.82,2023-05-26
+24,Customer Service,Dale,Ford,138415.72,2019-02-23
+5,Analyst,Kristine,Porter,99615.95,2025-11-16
+88,Loan Officer,April,Johns,60892.92,2023-05-25
+74,Analyst,Jordan,Mays,91229.35,2023-01-01
+60,Analyst,Megan,Booker,143039.43,2016-12-14
+77,Loan Officer,Andrew,Lyons,74242.0,2023-08-29
+65,Loan Officer,Ebony,Morales,105694.82,2018-07-17
+49,Loan Officer,Austin,Gonzales,117362.72,2019-02-17
+59,Customer Service,Katherine,Brown,122619.68,2020-01-21
+54,Analyst,Crystal,Young,130313.41,2023-04-22
+72,Teller,Curtis,Wyatt,81501.27,2022-02-11
+22,Loan Officer,Jessica,Rice,112604.81,2019-09-21
+64,Teller,Bruce,Jones,86242.51,2025-01-16
+23,Customer Service,Ashley,Dominguez,126055.4,2024-08-28
+84,Analyst,Pamela,Jackson,148380.49,2023-05-27
+43,Teller,Joseph,Smith,66350.18,2019-06-07
+14,Analyst,Teresa,York,62117.62,2022-08-08
+15,Customer Service,Amy,Callahan,102090.95,2024-11-22
+55,Customer Service,Angela,Adams,107920.63,2018-11-10
+42,Teller,Elizabeth,Brown,116379.7,2021-08-21
+75,Analyst,Amy,Gonzalez,50858.57,2018-05-12
+41,Analyst,Joseph,Valdez,145511.53,2025-09-02
+33,Loan Officer,Crystal,Howard,59812.66,2017-07-05
+73,Loan Officer,Peter,Martinez,124822.38,2025-11-11
+72,Loan Officer,Mario,Young,126564.58,2018-12-04
+40,Analyst,Devin,Swanson,65284.57,2025-01-17
+44,Teller,Kyle,Haley,103760.96,2020-11-24
+49,Customer Service,Tammy,Snyder,68666.66,2024-03-26
+87,Teller,Mary,Roberts,110191.38,2025-09-07
+6,Loan Officer,John,Leach,76255.65,2021-11-02
+56,Loan Officer,Elizabeth,Marshall,142517.37,2018-08-29
+89,Customer Service,Pamela,Thomas,97464.51,2023-09-01
+27,Teller,Christina,Thompson,82143.76,2020-05-12
+26,Analyst,Douglas,Wilcox,50369.09,2023-04-24
+17,Customer Service,Adrian,Wells,78304.99,2020-04-15
+66,Analyst,Nicole,Norman,104989.51,2018-04-24
+35,Analyst,Erika,Ayala,102741.13,2018-11-16
+18,Customer Service,Matthew,Ruiz,81999.51,2025-09-21
+3,Customer Service,Sergio,Schneider,72852.09,2021-09-29
+36,Teller,Donald,Walker,136294.46,2017-02-09
+4,Analyst,Frank,Wilson,106286.18,2018-08-30
+44,Loan Officer,Carly,Johnson,52526.83,2025-04-01
+59,Customer Service,Stephanie,Gonzales,124428.99,2020-11-13
+76,Analyst,Lauren,Vargas,98651.5,2019-07-04
+62,Loan Officer,John,Silva,115762.59,2018-02-23
+79,Loan Officer,Patrick,Powers,77372.92,2017-09-14
+37,Teller,John,Taylor,110256.21,2025-04-16
+41,Loan Officer,Stephanie,Kelley,72912.56,2022-12-19
+57,Loan Officer,Albert,Thomas,58596.79,2022-12-23
+74,Analyst,Lauren,Ward,86641.86,2022-02-15
+67,Customer Service,Beth,Parks,113078.97,2017-11-12
+64,Teller,Juan,Castro,83239.29,2017-01-25
+81,Loan Officer,Zachary,Hall,142173.84,2018-05-11
+44,Analyst,Tonya,Mills,122098.88,2021-12-29
+69,Analyst,William,Adams,59061.22,2023-07-19
+6,Customer Service,Wesley,Roberts,85342.79,2018-04-05
+74,Loan Officer,Joshua,Brown,134904.64,2017-07-30
+5,Analyst,Patrick,Flores,99385.76,2022-12-19
+59,Customer Service,Shane,Fernandez,138529.28,2016-07-17
+80,Loan Officer,Brenda,Owen,89895.14,2020-01-07
+69,Customer Service,Lisa,Jackson,99651.43,2019-08-06
+30,Loan Officer,Kirsten,King,140630.16,2018-11-04
+41,Analyst,Olivia,Gomez,127645.48,2022-03-18
+27,Loan Officer,Michael,Prince,75791.44,2020-02-09
+14,Loan Officer,Lindsey,Cooper,124804.17,2020-08-14
+39,Customer Service,Jeffrey,Tucker,68348.39,2021-07-22
+30,Analyst,Erika,Baxter,70979.08,2023-05-18
+43,Analyst,Leah,Taylor,92945.61,2025-11-02
+94,Loan Officer,Brenda,Oconnor,126253.74,2023-09-09
+1,Analyst,Carmen,Becker,135699.29,2024-06-17
+89,Customer Service,Nicholas,Bishop,88023.59,2024-04-03
+66,Analyst,Elizabeth,Raymond,136578.07,2017-03-18
+68,Loan Officer,Justin,Russell,127518.74,2021-02-27
+52,Analyst,Tyler,Howell,77119.99,2025-06-01
+57,Teller,Lauren,Williams,84300.15,2025-11-06
+32,Loan Officer,Janet,Hess,59024.37,2022-07-22
+64,Analyst,Chad,Scott,100709.73,2024-12-12
+10,Analyst,Jose,Collins,117059.65,2018-06-14
+36,Teller,Paige,Mitchell,70820.18,2019-03-20
+39,Loan Officer,Brent,Howard,117929.76,2018-02-28
+13,Teller,Jessica,Greene,116280.7,2024-06-04
+75,Teller,William,Allison,141934.5,2022-10-24
+81,Analyst,Andrew,Mcneil,68121.94,2022-12-16
+69,Loan Officer,David,Jones,85862.82,2019-03-01
+70,Analyst,Ricardo,Smith,97081.52,2019-08-12
+36,Loan Officer,Michael,Long,96168.7,2016-06-10
+94,Teller,Nathaniel,Brown,67138.21,2019-03-11
+27,Analyst,Dorothy,Padilla,69120.69,2020-06-07
+61,Analyst,Richard,Boyer,145684.86,2023-07-07
+18,Teller,Bianca,Hartman,140830.5,2019-01-27
+75,Customer Service,Kimberly,Hall,108808.87,2024-06-13
+57,Customer Service,Leslie,Young,54090.99,2023-11-11
+64,Customer Service,Yvonne,Phillips,108698.35,2019-10-21
+97,Teller,Danielle,Fowler,101692.93,2021-08-26
+65,Teller,Jennifer,Woods,52515.84,2023-02-06
+43,Teller,Alan,Benson,119198.97,2022-04-17
+65,Teller,Timothy,Evans,137604.9,2017-09-29
+42,Teller,Debra,Spence,60143.36,2021-12-02
+55,Customer Service,Dawn,Brown,120747.58,2024-12-06
+45,Teller,Collin,Young,142738.51,2016-08-26
+97,Customer Service,Jimmy,Brown,97404.76,2016-09-02
+56,Teller,Ann,Johnson,136004.53,2019-09-10
+12,Customer Service,Veronica,Hampton,115524.22,2025-05-29
+61,Analyst,Gabriela,Johnson,62855.85,2024-04-08
+8,Loan Officer,Jay,Murillo,63362.61,2019-08-15
+7,Loan Officer,Benjamin,Knapp,61660.37,2022-10-31
+55,Loan Officer,Stacy,Cruz,145178.49,2025-01-30
+68,Teller,Bryan,Wallace,144209.53,2018-11-06
+87,Analyst,Steven,Thompson,108874.63,2016-05-14
+82,Analyst,Ashley,Cox,70467.14,2017-09-02
+70,Customer Service,Peter,Fisher,100673.17,2017-08-07
+97,Teller,Marcus,Contreras,70872.5,2022-09-16
+23,Loan Officer,Lori,Estrada,67049.0,2024-01-07
+99,Analyst,Anthony,Hernandez,111387.62,2024-10-17
+8,Analyst,Laura,Miller,51209.49,2019-04-29
+76,Customer Service,William,Myers,53383.24,2022-03-16
+36,Loan Officer,Michael,Brown,116050.53,2024-03-19
+71,Loan Officer,Kimberly,Ortiz,140004.51,2021-06-28
+56,Loan Officer,William,Carter,54984.03,2025-01-31
+12,Teller,Curtis,Ramirez,133024.21,2018-11-17
+41,Analyst,Carolyn,Moore,143589.45,2022-05-18
+73,Loan Officer,David,Sosa,66958.45,2019-07-17
+8,Analyst,Ryan,Davis,107947.29,2018-07-08
+95,Customer Service,Tiffany,Joseph,71652.37,2024-05-08
+70,Loan Officer,William,Snyder,58352.83,2024-10-19
+75,Teller,Dana,Hester,148753.24,2025-08-23
+77,Customer Service,James,Curry,53563.16,2018-04-19
+28,Customer Service,Victor,Stevens,111913.13,2019-01-28
+71,Loan Officer,Melanie,Warren,94172.02,2022-03-14
+65,Customer Service,Michael,King,134983.68,2022-03-16
+41,Loan Officer,Edward,Ward,52108.16,2016-01-18
+3,Teller,Anna,Rodriguez,117279.51,2024-11-03
+83,Teller,Joseph,Smith,113819.81,2017-09-03
+81,Loan Officer,Chloe,Larsen,89177.29,2021-09-30
+16,Loan Officer,Angelica,Dyer,123142.87,2017-03-23
+82,Teller,Lori,Pollard,118769.83,2021-11-25
+3,Analyst,Jason,Ward,100662.01,2024-11-15
+3,Customer Service,Amy,Munoz,80870.56,2016-08-28
+60,Loan Officer,Lisa,Stephens,89873.14,2025-08-09
+47,Customer Service,Jeffrey,Sanders,127381.77,2019-05-06
+19,Teller,Katelyn,Stein,126074.76,2019-06-16
+86,Loan Officer,Thomas,Newman,85671.37,2019-07-24
+97,Analyst,David,Olson,85901.38,2022-07-23
+49,Loan Officer,Ashley,Andrews,133639.44,2022-01-25
+96,Analyst,Joseph,Wade,79777.84,2016-01-21
+63,Analyst,Darlene,Mills,149876.89,2018-05-30
+89,Analyst,Brianna,Thomas,129915.45,2022-05-05
+43,Teller,Christina,Conner,135825.38,2021-09-22
+29,Loan Officer,Debbie,Anderson,72875.84,2025-04-22
+90,Loan Officer,Brent,Crawford,147065.17,2020-11-12
+35,Teller,Brenda,Watson,119318.19,2018-12-26
+19,Teller,Monica,Thomas,59105.78,2016-12-25
+100,Customer Service,Morgan,Schneider,51088.68,2020-12-18
+56,Teller,Michael,Jackson,66274.57,2024-09-02
+61,Teller,Anthony,Gomez,140161.58,2020-12-04
+26,Teller,Tyler,Randall,127118.23,2020-02-02
+77,Teller,Laura,Garcia,63859.77,2024-10-29
+66,Loan Officer,Norma,Chambers,65487.29,2024-11-18
+60,Customer Service,Brandon,Thomas,134990.46,2021-01-03
+9,Customer Service,Charles,Williams,139020.67,2022-05-20
+22,Customer Service,Steven,Harper,90284.03,2025-01-10
+9,Analyst,Stacey,Gill,149113.61,2020-03-07
+8,Analyst,David,Silva,88073.92,2022-09-24
+29,Customer Service,Janet,Newman,67373.15,2023-05-24
+46,Customer Service,Laura,Crawford,68967.93,2020-04-30
+72,Customer Service,Joseph,Kane,69631.22,2021-02-06
+22,Analyst,Kaylee,Daniels,111190.69,2024-02-13
+64,Loan Officer,Ruth,Hernandez,147233.17,2024-12-27
+78,Teller,Leslie,Edwards,138074.9,2016-04-18
+76,Teller,Michelle,Padilla,76576.0,2025-05-18
+91,Customer Service,Miranda,Hernandez,74433.99,2015-12-16
+3,Loan Officer,Donna,Bolton,143340.63,2022-10-05
+12,Teller,Mary,Alexander,65821.82,2016-11-20
+94,Customer Service,Julie,Schaefer,75039.13,2018-01-06
+97,Teller,Joseph,Mitchell,75625.04,2025-01-06
+88,Loan Officer,Michelle,Wilson,65905.12,2018-03-20
+40,Loan Officer,Julia,Hughes,103168.68,2020-05-30
+86,Loan Officer,William,Blair,115462.87,2023-05-27
+82,Analyst,Phillip,Rose,85299.09,2016-08-16
+45,Customer Service,Roger,Rodriguez,53751.18,2020-10-28
+66,Loan Officer,Nancy,Zamora,110653.5,2023-11-25
+14,Loan Officer,Crystal,Young,135560.21,2016-01-13
+31,Analyst,Shirley,Smith,71496.03,2023-02-25
+11,Loan Officer,Christopher,Brown,114242.57,2020-05-06
+85,Analyst,Andrew,Jenkins,68852.5,2025-04-22
+14,Analyst,Jerry,Silva,71399.22,2020-03-20
+25,Teller,Alexandra,Lowe,112983.18,2023-09-17
+73,Customer Service,Allison,Martinez,112812.56,2022-11-25
+17,Analyst,Clifford,Jenkins,110708.49,2024-10-25
+76,Teller,Lisa,Knight,112362.97,2021-08-06
+81,Teller,Jeremy,Boyd,112779.27,2017-07-01
+57,Loan Officer,Julie,Foley,100317.23,2020-06-20
+78,Teller,Dennis,Zavala,101322.89,2020-12-25
+8,Analyst,Matthew,Montgomery,96504.69,2021-10-02
+77,Teller,Ryan,Griffin,127457.66,2017-12-29
+72,Analyst,Danny,Smith,147674.99,2020-12-28
+33,Customer Service,Carolyn,Joyce,52581.97,2016-10-18
+14,Analyst,Karen,Jordan,146808.33,2019-11-10
+84,Analyst,Natalie,Lowery,58121.73,2016-09-05
+71,Analyst,Sophia,Thompson,90109.25,2023-08-28
+29,Analyst,Jerry,Bailey,112058.43,2019-10-03
+19,Loan Officer,Amy,Brooks,54503.7,2022-08-25
+2,Customer Service,Claudia,Baker,53682.92,2025-09-19
+81,Analyst,Cassandra,Zavala,143544.98,2016-02-23
+56,Customer Service,Paul,Collier,134333.93,2016-10-18
+13,Analyst,Courtney,Lee,139540.06,2022-08-24
+74,Customer Service,Robert,Roberts,59973.97,2018-01-04
+61,Analyst,Adrian,Sanchez,102611.38,2020-05-14
+95,Teller,Cory,Soto,145745.25,2025-01-25
+14,Analyst,Robert,Santana,71255.26,2024-09-20
+72,Teller,Joseph,Lang,96461.98,2019-07-26
+48,Teller,Reginald,Brown,98596.88,2023-01-09
+23,Customer Service,Michael,Coleman,125575.47,2023-12-01
+26,Loan Officer,Lisa,Harrington,93891.61,2023-09-25
+24,Analyst,Andrew,Murphy,110686.36,2020-12-30
+96,Analyst,Melanie,Wheeler,117038.48,2020-01-18
+83,Loan Officer,Andrea,Cruz,141076.28,2019-07-06
+20,Customer Service,Tina,Bright,104400.18,2019-03-23
+76,Loan Officer,Hannah,Hernandez,74890.22,2024-07-11
+72,Customer Service,Tammy,Nelson,137315.39,2022-07-15
+8,Analyst,Robin,Lamb,52554.56,2022-01-24
+40,Teller,Thomas,Smith,66167.31,2020-01-10
+69,Loan Officer,Darrell,Pierce,51097.47,2019-01-05
+41,Customer Service,Matthew,Bolton,109130.55,2024-05-06
+21,Loan Officer,Ann,Wade,99748.7,2019-03-09
+11,Analyst,Allison,Moore,103753.67,2019-08-14
+96,Customer Service,Bobby,West,131203.57,2023-05-10
+49,Customer Service,Carolyn,Cole,94746.66,2024-08-12
+91,Analyst,Abigail,Berger,127660.65,2023-08-11
+8,Loan Officer,Jessica,Ferguson,53296.71,2020-12-20
+55,Teller,Joseph,Martin,104190.3,2018-11-14
+1,Customer Service,Lori,Hickman,79751.22,2023-12-24
+14,Loan Officer,Keith,Jones,136232.0,2017-05-07
+37,Loan Officer,Rachel,Simmons,142755.66,2017-02-05
+2,Teller,Barbara,Lawson,137395.86,2022-11-19
+52,Analyst,Erin,Brown,108078.56,2024-03-04
+48,Analyst,Adam,Fry,138653.32,2021-03-28
+67,Customer Service,Heather,Evans,51628.58,2022-01-08
+37,Analyst,Jessica,Russell,107487.86,2019-04-06
+51,Customer Service,Timothy,Sexton,62738.51,2017-11-07
+16,Teller,Joshua,Estes,104729.58,2018-06-28
+100,Customer Service,William,Obrien,72039.11,2019-12-24
+37,Loan Officer,Zachary,Page,79199.17,2021-07-14
+52,Loan Officer,Melissa,Moon,107727.36,2023-05-02
+6,Teller,Mary,Davis,118828.91,2017-05-11
+41,Customer Service,Gary,Cook,86289.64,2018-05-28
+78,Customer Service,Jeffrey,Bennett,133286.53,2024-07-14
+73,Customer Service,Cynthia,Anderson,124876.29,2024-03-13
+62,Customer Service,Mallory,Patel,123666.48,2024-05-10
+47,Teller,Michelle,Parker,53308.15,2024-05-18
+25,Analyst,Ernest,Christensen,87762.29,2020-03-16
+30,Analyst,Jennifer,Carr,127701.15,2018-10-13
+36,Loan Officer,Elizabeth,Clark,65503.33,2022-01-04
+63,Loan Officer,Deborah,Greene,105396.25,2019-07-28
+11,Teller,Anthony,Mendoza,135043.02,2023-06-18
+86,Teller,Nathan,Washington,76801.18,2020-12-22
+74,Customer Service,Robert,Richards,149895.03,2023-12-01
+23,Teller,Melissa,Camacho,142804.45,2021-09-11
+8,Loan Officer,Jessica,Wilson,107069.32,2016-06-23
+29,Teller,Michael,Costa,69472.91,2018-08-01
+90,Customer Service,Laura,Duffy,50822.19,2016-06-10
+94,Customer Service,Marcus,Collins,67959.74,2016-05-24
+57,Loan Officer,Kelly,Nelson,52889.87,2023-04-26
+19,Customer Service,Eric,Prince,135068.85,2019-12-15
+36,Analyst,Maria,Manning,116230.09,2019-10-24
+56,Loan Officer,Nancy,Shelton,76801.78,2017-01-17
+65,Loan Officer,Eric,Gutierrez,50042.54,2021-05-12
+93,Customer Service,Michelle,Williams,103788.27,2017-11-29
+74,Customer Service,Timothy,Perez,94931.8,2018-11-19
+54,Teller,Melanie,Norman,147899.96,2016-06-22
+24,Customer Service,Savannah,Kelly,102405.2,2022-04-14
+68,Customer Service,Joshua,Lopez,53707.3,2023-10-06
+22,Teller,Jamie,Macias,53774.46,2024-05-27
+47,Customer Service,Joseph,Ramos,146842.83,2019-04-07
+93,Customer Service,Jessica,Manning,72825.55,2025-04-28
+94,Teller,Katherine,Medina,92747.08,2016-09-30
+21,Analyst,Robert,Fowler,103909.09,2016-07-24
+46,Loan Officer,Brian,Taylor,81771.0,2020-02-06
+51,Teller,Karla,Mullins,76498.75,2021-06-17
+50,Analyst,Zachary,Patterson,117352.25,2018-07-24
+100,Teller,Mark,Moore,140308.33,2020-07-04
+36,Loan Officer,Christopher,Lyons,137183.36,2024-09-30
+61,Teller,Gabriella,Simon,146429.12,2019-10-18
+39,Customer Service,Michael,Gilbert,51707.37,2020-01-02
+25,Teller,Charles,Harris,81389.58,2020-07-19
+36,Analyst,Justin,Harris,123879.44,2023-10-29
+100,Teller,Terrence,Smith,99999.03,2016-01-10
+53,Analyst,James,Banks,106468.37,2019-08-14
+90,Customer Service,Darryl,Fritz,134057.05,2023-05-08
+25,Loan Officer,Jennifer,George,105949.03,2016-12-28
+19,Loan Officer,Adam,Bridges,78526.09,2017-11-10
+59,Analyst,Danielle,Simmons,72213.74,2021-03-24
+36,Customer Service,Jason,Hines,142182.98,2021-12-03
+74,Loan Officer,Karen,Miller,58404.92,2018-12-23
+97,Loan Officer,Keith,Walker,136454.0,2024-04-30
+35,Teller,Kenneth,Foster,57214.42,2022-04-29
+71,Customer Service,Kristin,Salinas,103624.21,2023-11-06
+22,Teller,Allen,Santiago,109210.69,2020-09-24
+4,Loan Officer,Christine,Smith,60500.47,2023-07-31
+48,Teller,Donald,Walton,110709.99,2018-12-04
+40,Teller,Samuel,Glass,105474.39,2022-09-01
+52,Analyst,Jose,Lamb,142358.71,2019-10-25
+10,Analyst,Brittany,Chan,112256.67,2024-01-09
+35,Customer Service,Matthew,Hunt,104440.98,2018-10-12
+70,Teller,Kathryn,Sanchez,82483.49,2024-01-16
+60,Teller,Priscilla,Thomas,112719.15,2017-07-20
+44,Teller,Sharon,Ray,93644.9,2020-06-30
+27,Loan Officer,Tonya,Morris,93727.93,2024-08-30
+54,Analyst,Shane,Coleman,53887.07,2016-06-17
+65,Analyst,Brianna,Romero,145157.69,2021-03-30
+67,Teller,Joseph,Thompson,104879.27,2016-04-14
+86,Customer Service,Amy,Snow,100796.86,2020-01-03
+57,Customer Service,Alyssa,Washington,94091.21,2018-01-02
+98,Teller,Robert,Turner,138416.92,2022-03-09
+62,Loan Officer,Christopher,Cabrera,126725.69,2020-11-07
+94,Customer Service,Heather,Richards,114828.23,2020-02-29
+30,Analyst,Jenna,Allen,127691.82,2021-11-28
+5,Teller,Christopher,Stewart,50244.57,2016-07-28
+82,Loan Officer,Brent,Austin,103225.07,2016-10-24
+22,Loan Officer,Seth,Walker,106882.76,2018-02-15
+39,Customer Service,Zachary,Dixon,73405.11,2017-02-22
+36,Loan Officer,Paul,Johnson,59507.52,2019-12-15
+30,Loan Officer,Elizabeth,Glover,68284.32,2019-03-19
+32,Loan Officer,James,Watts,119058.21,2020-11-03
+6,Analyst,John,Chavez,72304.71,2016-07-14
+19,Teller,Bill,Moreno,145770.17,2017-09-14
+79,Loan Officer,Michael,Robinson,85206.34,2024-02-09
+70,Analyst,Jason,Wilson,108144.04,2024-12-25
+7,Customer Service,Michelle,Fields,141861.01,2024-11-02
+62,Customer Service,Jeremy,Brewer,139214.42,2020-03-28
+5,Customer Service,Kathleen,Arroyo,79446.65,2018-12-04
+61,Loan Officer,Karen,Chavez,72157.85,2024-07-08
+40,Analyst,Taylor,Brock,100293.12,2025-02-10
+92,Customer Service,Donald,Hudson,51327.27,2021-11-12
+94,Loan Officer,Daniel,Doyle,140234.73,2021-05-01
+78,Loan Officer,David,Young,103766.45,2021-03-09
+57,Customer Service,Kristen,Bryant,53969.11,2023-01-21
+79,Analyst,Earl,Jennings,105270.91,2023-12-23
+91,Loan Officer,Morgan,White,76528.83,2015-12-22
+83,Loan Officer,Glen,Norton,112522.96,2020-07-18
+71,Customer Service,Emily,Hart,50816.09,2017-12-20
+17,Analyst,Peter,Bond,149296.23,2020-06-19
+40,Analyst,Jaime,Garcia,93768.92,2020-01-17
+34,Loan Officer,Sandra,Hahn,65177.77,2020-10-23
+95,Analyst,Jill,Carter,134261.49,2017-04-12
+12,Analyst,Rodney,Rodriguez,73428.27,2024-02-19
+21,Loan Officer,Erik,Saunders,123973.66,2019-04-02
+71,Teller,Adam,Henderson,96473.91,2023-01-20
+87,Customer Service,Danielle,Rodriguez,51125.51,2025-06-26
+25,Analyst,Felicia,Fisher,99769.94,2020-10-05
+84,Analyst,Matthew,Briggs,117010.36,2019-09-20
+55,Teller,Angela,Wise,112952.26,2020-08-07
+93,Loan Officer,David,Valdez,66221.68,2021-08-20
+11,Analyst,Julie,Powell,64529.88,2019-03-30
+9,Loan Officer,Alex,Short,98501.79,2016-06-07
+69,Analyst,Brian,Carroll,87968.89,2018-07-18
+95,Customer Service,Kendra,Ryan,61974.62,2017-08-01
+59,Teller,Tiffany,Wright,87093.03,2022-08-07
+68,Analyst,Carrie,Jackson,103341.58,2017-09-16
+40,Customer Service,Terri,Burgess,62429.97,2023-11-20
+37,Teller,Robert,Peterson,132116.32,2016-08-12
+34,Loan Officer,Travis,Mitchell,91227.12,2020-02-21
+94,Loan Officer,Jeffery,Kennedy,141876.98,2019-06-28
+7,Customer Service,Roger,Gonzalez,115231.17,2025-06-08
+54,Teller,Brenda,Harris,87393.99,2024-11-11
+25,Loan Officer,David,Castro,61989.53,2023-06-16
+77,Loan Officer,Justin,Horn,148227.28,2024-01-14
+47,Customer Service,Ronald,Miller,92643.02,2018-09-20
+23,Loan Officer,Rita,Mosley,76659.13,2015-12-28
+100,Customer Service,Lori,Smith,138629.43,2020-08-01
+40,Analyst,John,Garcia,111129.71,2017-06-29
+78,Analyst,Matthew,Brooks,63064.45,2023-06-08
+41,Analyst,Lori,Johnson,72264.16,2018-05-19
+35,Customer Service,Rebecca,Johnson,56347.56,2025-03-01
+95,Teller,Marcus,Gill,123682.69,2018-11-08
+70,Loan Officer,Donald,Doyle,57332.38,2023-04-20
+10,Analyst,Connie,Gonzalez,139612.2,2024-02-24
+51,Customer Service,Joseph,Turner,62465.46,2023-05-12
+76,Customer Service,Jacob,Gardner,56938.53,2022-10-29
+79,Customer Service,Daniel,Anderson,69873.11,2024-11-01
+57,Loan Officer,Katherine,Burke,70688.94,2019-08-13
+21,Customer Service,Tara,Lawrence,53056.9,2019-04-21
+65,Loan Officer,Tamara,Gonzalez,136565.28,2019-05-29
+93,Loan Officer,Amanda,Maddox,85671.85,2016-06-18
+40,Teller,Michael,Pacheco,93991.95,2016-09-20
+66,Teller,Donna,Clark,111157.98,2025-05-16
+91,Analyst,Nathan,Beasley,58982.03,2022-07-04
+13,Teller,Colin,Hernandez,89339.56,2019-09-30
+39,Loan Officer,John,Anderson,59333.11,2023-09-22
+82,Customer Service,Melissa,Martin,125636.69,2025-11-16
+82,Analyst,Kenneth,Vaughan,84853.18,2016-11-04
+60,Teller,Sherry,Green,117917.53,2016-05-31
