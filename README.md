@@ -3,9 +3,10 @@
 A database system for tracking and analyzing customer data and transactions in a bank: accounts, cards, loans, payments, and fraud flags in one place, with business rules enforced inside the database and a small web app on top.
 
 **Course:** Database Management Systems, SDU University (December 2025)
+
 **Team "Rothschild Family":** Rauza Ramazanova, Ramazan, Aisultan
 
-![ERD](docs/erd.png)
+![ERD](erd.png)
 
 ## The problem
 In traditional banking, customer and transaction data is scattered across systems, which makes it hard to see the full customer picture, audit changes, and catch suspicious activity. We designed one normalized database that keeps everything consistent automatically.
@@ -14,8 +15,8 @@ In traditional banking, customer and transaction data is scattered across system
 
 **Database design**
 - 14 related tables: customers, accounts, cards, loans, payments, transactions, branches, employees, merchants, locations, lookup tables, and a system log
-- Full ERD (`docs/erd.png`, editable in draw.io)
-- Realistic synthetic dataset: 1,000 customers and 10,000 transactions (`data/`)
+- Full ERD (`erd.png`, editable in draw.io: `erd.drawio.xml`)
+- Realistic synthetic dataset: 1,000 customers and 10,000 transactions (CSV files)
 
 **Business logic in PL/SQL**
 - `pkg_transaction_core`: deposit, withdraw, and transfer with validation
@@ -37,13 +38,13 @@ In traditional banking, customer and transaction data is scattered across system
 - **Loan simulator:** monthly payment, total interest, and total payable
 
 ## Files
-| Path | Content |
+| File | Content |
 |---|---|
-| `sql/banking_system.sql` | Tables, packages, triggers, functions, app logic |
-| `sql/apex_application_export.sql` | Exported Oracle APEX application |
-| `data/` | CSV data for all tables |
-| `docs/presentation.pdf` | Project presentation |
-| `docs/erd.png` | Entity-relationship diagram |
+| `banking_system.sql` | Tables, packages, triggers, functions, app logic |
+| `apex_application_export.sql` | Exported Oracle APEX application |
+| `*.csv` | Data for all tables |
+| `presentation.pdf` | Project presentation |
+| `erd.png` | Entity-relationship diagram |
 
 ## Tech
 Oracle Database, SQL, PL/SQL, Oracle APEX, draw.io
